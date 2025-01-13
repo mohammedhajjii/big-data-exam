@@ -1,0 +1,6 @@
+transactionId,productName,category,quantity,unitPrice,purchaseDate
+1,Pomme,Fruits,5,1.2,2025-01-01
+2,Banane,Fruits,3,0.8,2025-01-01
+3,Pain,Boulangerie,2,2.5,2025-01-01
+4,Pomme,Fruits,4,1.2,2025-01-02
+5,Lait,Laitages,1,1.0,2025-01-02
